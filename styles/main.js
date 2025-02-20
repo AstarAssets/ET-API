@@ -37,6 +37,9 @@ var NDLoader = new function () {
 			["Auto Light/Dark", "Auto:Light/Dark"],
 			["Auto Light/Black", "Auto:Light/Black"]
 		]);
+		NDThemes.ForceTheme("DarkTheme");
+		NDThemeSwitcher.Start();
+		
 	};
 	this.OnLoad_Content = function () {
 		NDContentPage.Start();
