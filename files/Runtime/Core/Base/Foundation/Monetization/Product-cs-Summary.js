@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Core/Base/Foundation/Monetization/Product.cs","Product.cs");NDSummary.OnSummaryLoaded("File:Runtime/Core/Base/Foundation/Monetization/Product.cs",[["C#","CSharp"]],[["Classes","Class"]],[[4055,0,0,"<span class=\"Qualifier\">AstarLibrary.&#8203;Core.&#8203;Foundation.</span>&#8203;Product","AstarLibrary.Core.Foundation.Product"]]);

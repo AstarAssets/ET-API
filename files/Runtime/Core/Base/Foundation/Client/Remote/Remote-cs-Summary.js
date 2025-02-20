@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Core/Base/Foundation/Client/Remote/Remote.cs","Remote.cs");NDSummary.OnSummaryLoaded("File:Runtime/Core/Base/Foundation/Client/Remote/Remote.cs",[["C#","CSharp"]],[["Classes","Class"]],[[3971,0,0,"<span class=\"Qualifier\">AstarLibrary.&#8203;Core.&#8203;Foundation.</span>&#8203;Remote","AstarLibrary.Core.Foundation.Remote"]]);

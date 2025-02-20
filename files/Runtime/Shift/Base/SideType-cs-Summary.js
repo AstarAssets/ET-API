@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Shift/Base/SideType.cs","SideType.cs");NDSummary.OnSummaryLoaded("File:Runtime/Shift/Base/SideType.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[8191,0,1,"Types","AstarLibrary.ETShift.Types"],[8192,0,0,"SideType","AstarLibrary.ETShift.SideType"]]);

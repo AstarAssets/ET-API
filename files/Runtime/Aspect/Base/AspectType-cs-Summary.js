@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Aspect/Base/AspectType.cs","AspectType.cs");NDSummary.OnSummaryLoaded("File:Runtime/Aspect/Base/AspectType.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[3438,0,1,"Types","AstarLibrary.ETAspect.Types"],[3439,0,0,"AspectType","AstarLibrary.ETAspect.AspectType"]]);

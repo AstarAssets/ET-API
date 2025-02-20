@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Flex/Base/FlexType.cs","FlexType.cs");NDSummary.OnSummaryLoaded("File:Runtime/Flex/Base/FlexType.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[7435,0,1,"Types","AstarLibrary.ETFlex.Types"],[7436,0,0,"FlexType","AstarLibrary.ETFlex.FlexType"]]);

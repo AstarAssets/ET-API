@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("tow",["Function"],[["ToWeeks",,[["AstarLibrary.ETChrono.LongTimeInterval",,,,0,"File:Runtime/Chronos/Base/LongTimeInterval.cs:AstarLibrary.ETChrono.LongTimeInterval.ToWeeks","CSharpClass:AstarLibrary.ETChrono.LongTimeInterval:ToWeeks"]]]]);

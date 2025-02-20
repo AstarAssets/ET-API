@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:Editor/Enums/LogType.cs",{1470:"<div class=\"NDToolTip TEnumeration LCSharp\"><div id=\"NDPrototype1470\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\"><span class=\"SHMetadata\">[Serializable]</span></div><div class=\"PSection PPlainSection\"><span class=\"SHKeyword\">public enum</span> LogType</div></div></div>"});

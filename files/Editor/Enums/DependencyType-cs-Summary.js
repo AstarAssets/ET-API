@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Editor/Enums/DependencyType.cs","DependencyType.cs");NDSummary.OnSummaryLoaded("File:Editor/Enums/DependencyType.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[1496,0,1,"Types","AstarLibrary.AstarEditor.Enums.Types"],[1497,0,0,"DependencyType","AstarLibrary.AstarEditor.Enums.DependencyType"]]);

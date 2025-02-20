@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:Runtime/Flex/Base/FitType.cs",{7453:"<div class=\"NDToolTip TEnumeration LCSharp\"><div id=\"NDPrototype7453\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\"><span class=\"SHMetadata\">[Serializable]</span></div><div class=\"PSection PPlainSection\"><span class=\"SHKeyword\">public enum</span> FitType</div></div></div>"});

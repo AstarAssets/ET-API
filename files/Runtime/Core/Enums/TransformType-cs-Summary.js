@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Core/Enums/TransformType.cs","TransformType.cs");NDSummary.OnSummaryLoaded("File:Runtime/Core/Enums/TransformType.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[4746,0,1,"Types","AstarLibrary.Core.Enums.Types"],[4747,0,0,"TransformType","AstarLibrary.Core.Enums.TransformType"]]);

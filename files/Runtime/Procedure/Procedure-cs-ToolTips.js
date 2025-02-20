@@ -1,0 +1,1 @@
+﻿NDContentPage.OnToolTipsLoaded({8073:"<div class=\"NDToolTip TEnumeration LCSharp\"><div id=\"NDPrototype8073\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\"><span class=\"SHKeyword\">private enum</span> ProcedureState</div></div></div>"});

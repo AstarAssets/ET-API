@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Aspect/Base/RatioType.cs","RatioType.cs");NDSummary.OnSummaryLoaded("File:Runtime/Aspect/Base/RatioType.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[3440,0,1,"Types","AstarLibrary.ETAspect.Types"],[3441,0,0,"RatioType","AstarLibrary.ETAspect.RatioType"]]);

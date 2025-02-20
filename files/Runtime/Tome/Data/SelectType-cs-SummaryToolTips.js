@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:Runtime/Tome/Data/SelectType.cs",{8519:"<div class=\"NDToolTip TEnumeration LCSharp\"><div id=\"NDPrototype8519\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\"><span class=\"SHMetadata\">[Serializable]</span></div><div class=\"PSection PPlainSection\"><span class=\"SHKeyword\">public enum</span> SelectType</div></div></div>"});

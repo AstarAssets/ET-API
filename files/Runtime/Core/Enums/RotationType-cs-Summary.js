@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Core/Enums/RotationType.cs","RotationType.cs");NDSummary.OnSummaryLoaded("File:Runtime/Core/Enums/RotationType.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[4764,0,1,"Types","AstarLibrary.Core.Enums.Types"],[4765,0,0,"RotationType","AstarLibrary.Core.Enums.RotationType"]]);

@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Flex/Base/GridType.cs","GridType.cs");NDSummary.OnSummaryLoaded("File:Runtime/Flex/Base/GridType.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[7437,0,1,"Types","AstarLibrary.ETFlex.Types"],[7438,0,0,"GridType","AstarLibrary.ETFlex.GridType"]]);

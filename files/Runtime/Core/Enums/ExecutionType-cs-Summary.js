@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Core/Enums/ExecutionType.cs","ExecutionType.cs");NDSummary.OnSummaryLoaded("File:Runtime/Core/Enums/ExecutionType.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[4784,0,1,"Types","AstarLibrary.Core.Enums.Types"],[4785,0,0,"ExecutionType","AstarLibrary.Core.Enums.ExecutionType"]]);

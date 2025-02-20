@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Core/Enums/DimensionType.cs","DimensionType.cs");NDSummary.OnSummaryLoaded("File:Runtime/Core/Enums/DimensionType.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[4800,0,1,"Types","AstarLibrary.Core.Enums.Types"],[4801,0,0,"DimensionType","AstarLibrary.Core.Enums.DimensionType"]]);

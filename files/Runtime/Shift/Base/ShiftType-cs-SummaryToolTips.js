@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:Runtime/Shift/Base/ShiftType.cs",{8210:"<div class=\"NDToolTip TEnumeration LCSharp\"><div id=\"NDPrototype8210\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\"><span class=\"SHMetadata\">[Serializable]</span></div><div class=\"PSection PPlainSection\"><span class=\"SHKeyword\">public enum</span> ShiftType</div></div></div>"});

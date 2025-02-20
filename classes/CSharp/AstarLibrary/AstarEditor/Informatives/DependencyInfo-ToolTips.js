@@ -1,0 +1,1 @@
+﻿NDContentPage.OnToolTipsLoaded({1497:"<div class=\"NDToolTip TEnumeration LCSharp\"><div id=\"NDPrototype1497\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\"><span class=\"SHMetadata\">[DataContract]</span></div><div class=\"PSection PPlainSection\"><span class=\"SHKeyword\">internal enum</span> DependencyType</div></div></div>"});

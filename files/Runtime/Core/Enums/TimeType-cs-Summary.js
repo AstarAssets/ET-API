@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Core/Enums/TimeType.cs","TimeType.cs");NDSummary.OnSummaryLoaded("File:Runtime/Core/Enums/TimeType.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[4744,0,1,"Types","AstarLibrary.Types"],[4745,0,0,"TimeType","AstarLibrary.TimeType"]]);

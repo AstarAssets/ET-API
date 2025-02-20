@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Core/Enums/ExecutionMode.cs","ExecutionMode.cs");NDSummary.OnSummaryLoaded("File:Runtime/Core/Enums/ExecutionMode.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[4788,0,1,"Types","AstarLibrary.Types"],[4789,0,0,"ExecutionMode","AstarLibrary.ExecutionMode"]]);

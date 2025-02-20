@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Chronos/Base/InteractionMode.cs","InteractionMode.cs");NDSummary.OnSummaryLoaded("File:Runtime/Chronos/Base/InteractionMode.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[3537,0,1,"Types","AstarLibrary.ETChrono.Types"],[3538,0,0,"InteractionMode","AstarLibrary.ETChrono.InteractionMode"]]);

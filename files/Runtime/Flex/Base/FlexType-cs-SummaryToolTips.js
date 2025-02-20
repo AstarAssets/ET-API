@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:Runtime/Flex/Base/FlexType.cs",{7436:"<div class=\"NDToolTip TEnumeration LCSharp\"><div id=\"NDPrototype7436\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\"><span class=\"SHMetadata\">[Serializable]</span></div><div class=\"PSection PPlainSection\"><span class=\"SHKeyword\">public enum</span> FlexType</div></div></div>"});

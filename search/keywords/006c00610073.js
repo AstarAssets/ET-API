@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("las",["Variable"],[["lastTriggeredThreshold",,[["AstarLibrary.ETPlus.SliderPlus",,,,0,"File:Runtime/Plus/SliderPlus.cs:AstarLibrary.ETPlus.SliderPlus.lastTriggeredThreshold","CSharpClass:AstarLibrary.ETPlus.SliderPlus:lastTriggeredThreshold"]]]]);

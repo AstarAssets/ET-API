@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("wid",["Variable"],[["WidthRatios",,[["AstarLibrary.Core.Foundation.Screen",,,,0,"File:Runtime/Core/Base/Foundation/Settings/Graphics/Screen.cs:AstarLibrary.Core.Foundation.Screen.WidthRatios","CSharpClass:AstarLibrary.Core.Foundation.Screen:WidthRatios"]]]]);

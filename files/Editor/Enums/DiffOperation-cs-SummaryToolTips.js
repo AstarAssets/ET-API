@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:Editor/Enums/DiffOperation.cs",{1495:"<div class=\"NDToolTip TEnumeration LCSharp\"><div id=\"NDPrototype1495\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\"><span class=\"SHKeyword\">public enum</span> DiffOperation</div></div></div>"});

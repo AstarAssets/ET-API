@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Chronos/Base/TimeZones.cs","TimeZones.cs");NDSummary.OnSummaryLoaded("File:Runtime/Chronos/Base/TimeZones.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[3528,0,1,"Types","AstarLibrary.ETChrono.Types"],[3529,0,0,"TimeZones","AstarLibrary.ETChrono.TimeZones"]]);

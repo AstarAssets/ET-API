@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Core/Enums/AnchorType.cs","AnchorType.cs");NDSummary.OnSummaryLoaded("File:Runtime/Core/Enums/AnchorType.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[4810,0,1,"Types","AstarLibrary.Core.Enums.Types"],[4811,0,0,"AnchorType","AstarLibrary.Core.Enums.AnchorType"]]);

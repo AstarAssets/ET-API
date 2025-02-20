@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Plus/Base/ToggleType.cs","ToggleType.cs");NDSummary.OnSummaryLoaded("File:Runtime/Plus/Base/ToggleType.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[7870,0,1,"Types","AstarLibrary.ETPlus.Types"],[7871,0,0,"ToggleType","AstarLibrary.ETPlus.ToggleType"]]);
