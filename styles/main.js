@@ -31,14 +31,8 @@ var NDLoader = new function () {
 	this.OnLoad_Frame = function () {
 		NDFramePage.Start();
 		NDThemes.SetAvailableThemes([
-			["Light Theme", "Light"],
 			["Dark Theme", "Dark"],
-			["Black Theme", "Black"],
-			["Auto Light/Dark", "Auto:Light/Dark"],
-			["Auto Light/Black", "Auto:Light/Black"]
 		]);
-		NDThemes.ForceTheme("Dark Theme");
-		NDThemeSwitcher.Start();
 		
 	};
 	this.OnLoad_Content = function () {
